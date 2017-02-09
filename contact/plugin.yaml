@@ -1,0 +1,6 @@
+plugin:
+    name: 'arteriaweb.contact::lang.plugin.name'
+    description: 'arteriaweb.contact::lang.plugin.description'
+    author: arteriaweb
+    icon: oc-icon-envelope
+    homepage: ''
